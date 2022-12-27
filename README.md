@@ -1,3 +1,3 @@
 # Codewars
-codewars challenges from https://www.codewars.com/
-challenge + my solutions sorted by difficulty (kyu)
+Codewars challenges from https://www.codewars.com/
+Challenges with my solutions sorted by difficulty (kyu)
